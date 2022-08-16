@@ -2,7 +2,7 @@
 ```php
 <?php
 
-echo "hello world";
+echo "Hello, world!";
 
 ```
 
@@ -12,7 +12,7 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("hello world")
+    fmt.Println("Hello, world!")
 }
 ```
 
