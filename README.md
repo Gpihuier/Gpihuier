@@ -1,4 +1,23 @@
-### Hi there 👋
+
+```php
+echo "hello world";
+```
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello world")
+}
+```
+
+```rust
+fn main() {
+    println!("Hello, world!");
+}
+```
 
 <!--
 **Gpihuier/Gpihuier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
