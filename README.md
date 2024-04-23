@@ -23,6 +23,16 @@ fn main() {
 }
 ```
 
+```c
+#include <stdio.h>
+
+int main() 
+{
+    printf("Hello World!\n");
+    return 0;
+}
+```
+
 <!--
 **Gpihuier/Gpihuier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
