@@ -33,9 +33,7 @@ int main()
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gpihuier)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpihuier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gpihuier&count_private=true&theme=aura&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpihuier&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gpihuier/Gpihuier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
